@@ -1,0 +1,39 @@
+body{
+    margin: 10px;
+    padding: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: black (0, 255, 255, 0.582);
+    color: aliceblue (40, 38, 43);
+    font-size: 16px;
+}
+h1{font-family: monospace;
+text-align: center;
+font-size: 30px;
+font-weight: bold;
+color: aqua;
+text-decoration: solid;
+text-transform: uppercase;
+border: 5px solid blanchedalmond;
+padding: 10px;
+border-radius: 10px;
+background-color: black;
+}   
+h2{
+ font-family:'Games 4 u';
+text-align: center;
+font-size: 24px;
+font-weight: bold;
+color: aqua;
+text-decoration: double;
+text-transform: capitalize;
+border: 5px solid blanchedalmond;
+padding: 10px;
+border-radius: 10px;
+background-color: black; 
+}
+nav{
+    background-color: black;
+    color: blanchedalmond;
+    padding: 10px;
+    text-align: center;
+}
